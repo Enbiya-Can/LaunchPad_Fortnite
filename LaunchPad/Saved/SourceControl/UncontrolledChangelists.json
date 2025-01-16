@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cyberdeck/Documents/Unreal Projects/BattleRoyale/LaunchPad/Content/BP_LaunchPad.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/BattleRoyale/LaunchPad/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/WR/WD59NG1X1FSFINWJRKF3B9.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/BattleRoyale/LaunchPad/Content/LaunchPad.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/LaunchPad/Content/BP_LaunchPad.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/LaunchPad/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/WR/WD59NG1X1FSFINWJRKF3B9.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/LaunchPad/Content/fabric-textured-background.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/LaunchPad/Content/Launch_Pad_UI_Select__Fortnite_Sound__-_Sound_Effect_for_editing.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/LaunchPad/Content/LaunchPad.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/LaunchPad/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2D/9OVKNYW4HOF1FTWWJNIYWV.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/LaunchPad/Content/LaunchPad_texture_0.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/LaunchPad/Content/LaunchPad_texture_1.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/LaunchPad/Content/Material_052.uasset"
+			]
+		}
+	]
+}
